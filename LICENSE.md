@@ -1,0 +1,1 @@
+Élise Davignon © 2026 --- Tous droits réservés. All rights reserved.
