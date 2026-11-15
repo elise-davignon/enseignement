@@ -1,0 +1,35 @@
+body
+{
+  width: 50%;
+  margin: auto;
+  margin-top: 1em;
+  font-family: "Comfortaa", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titre
+{
+	text-align:center;
+}
+
+.quote
+{
+	width:80%;
+	margin:auto;
+	text-align:center;
+}
+
+aside
+{
+	width:35%;
+	padding:1en;
+	margin-left:4en;
+	float:right;
+}
+
+aside img
+{
+	width:95%;
+	margin:auto;
+}
